@@ -1,4 +1,4 @@
-# Code Wars - My head is at the wrong end!
+# Code Wars - Simple validation of a username with regex
 ## Description from Code Wars: 
 Write a simple regex to validate a username. Allowed characters are:
 - lowercase letters,
