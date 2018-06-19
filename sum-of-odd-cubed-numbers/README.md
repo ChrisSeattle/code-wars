@@ -1,16 +1,15 @@
-# Code Wars - <!-- paste title here -->
+# Code Wars - Sum of Odd Cubed Numbers
+
 ## Description from Code Wars: 
-<!-- paste description from code wars here  -->
+Find the sum of the odd numbers within an array, after cubing the initial integers. This function will return undefined (NULL in PHP) if any of the values aren't numbers.
 
 ## Link to the Problem: 
-<!-- Url from code wars -->
+https://www.codewars.com/kata/sum-of-odd-cubed-numbers/
 
 ## Process: 
-I worked on this with <!-- partner name --> for the whiteboard portion, then we split up to work on our own solutions. 
-
-<!-- or we worked on the code together  -->
+I worked on this with Tara Johnson for the whiteboard portion, then we split up to work on our own solutions. 
 
 ## Authors & Contributors 
 Chris Chapman
-<!-- partner name -- >
+Tara Johnson
 
